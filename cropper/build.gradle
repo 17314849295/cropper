@@ -75,14 +75,9 @@ uploadArchives {
 
             developers {
                 developer {
-                    id 'ahuang13'
-                    name 'Angus Huang'
-                    email 'angus@edmodo.com'
-                }
-                developer {
-                    id 'TT1943'
-                    name 'Xiahong Lin'
-                    email 'xiahong@edmodo.com'
+                    id 'fakeID'
+                    name 'Fake Name'
+                    email 'fake@email'
                 }
             }
         }
