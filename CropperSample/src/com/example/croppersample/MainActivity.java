@@ -1,9 +1,9 @@
 
 package com.example.croppersample;
 
-import android.app.Activity;
 import android.graphics.Bitmap;
 import android.os.Bundle;
+import androidx.appcompat.app.AppCompatActivity;
 import android.view.View;
 import android.view.Window;
 import android.widget.AdapterView;
@@ -19,7 +19,7 @@ import android.widget.ToggleButton;
 
 import com.edmodo.cropper.CropImageView;
 
-public class MainActivity extends Activity {
+public class MainActivity extends AppCompatActivity {
 
     // Private Constants ///////////////////////////////////////////////////////////////////////////
 
